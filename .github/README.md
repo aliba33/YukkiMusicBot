@@ -9,6 +9,8 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
+https://app.koyeb.com/deploy?type=git&repository=github.com/aliba33/YukkiMusicBot&branch=main&name=aliba33
+
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
